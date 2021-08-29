@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return hej;
+  return <div>hej</div>;
 }
 
 export default App;
